@@ -1,98 +1,167 @@
 source,target,value
-Albania,Bulgaria,1
-Albania,Greece,2
-Albania,Hungary,1
-Albania,Poland,1
-Albania,Romania,1
-Algeria,Morocco,1
-Australia,Canada,1
-Austria,Austria,1
-Austria,France,1
-Austria,Germany,2
-Austria,Russia,1
-Belarus,Ukraine,1
-Belgium,France,1
-Bulgaria,Hungary,1
-Bulgaria,Poland,1
-Bulgaria,Romania,1
-Cambodia,Ghana,1
-Cambodia,Kenya,1
-Cambodia,Laos,1
-Cuba,Cuba,1
-Cuba,Mongolia,1
-Denmark,Germany,1
-Denmark,Norway,2
-Denmark,Sweden,1
-Egypt,Libya,1
-Estonia,Finland,2
-Estonia,Latvia,2
-Estonia,Lithuania,2
-Estonia,Romania,1
-Finland,Germany,1
-Finland,Latvia,2
-Finland,Lithuania,2
-Finland,Romania,1
-France,Germany,2
-France,India,1
-France,Iran,1
-France,Israel,2
-France,Libya,1
-France,Pakistan,1
-France,Poland,3
-France,Russia,2
-France,South Africa,1
-Germany,Germany,2
-Germany,Italy,2
-Germany,Japan,3
-Germany,Norway,2
-Germany,Poland,5
-Germany,Russia,1
-Germany,Sweden,1
-Ghana,Kenya,1
-Ghana,Laos,1
-Greece,Greece,1
-Hungary,Poland,1
-Hungary,Romania,1
-India,India,1
-India,Iran,1
-India,Israel,2
-India,Japan,2
-India,Libya,1
-India,Pakistan,3
-India,Russia,1
-India,South Africa,1
-Iran,Iran,1
-Iran,Israel,2
-Iran,Libya,1
-Iran,Pakistan,1
-Iran,Russia,1
-Iran,South Africa,1
-Israel,Israel,1
-Israel,Libya,2
-Israel,Pakistan,2
-Israel,Russia,2
-Israel,South Africa,2
-Italy,Italy,1
-Italy,Japan,1
-Japan,Japan,3
-Japan,Philippines,1
-Japan,Russia,2
-Japan,Singapore,1
-Japan,Solomon Islands,1
-Japan,Thailand,1
-Kenya,Laos,1
-Latvia,Lithuania,2
-Latvia,Romania,1
-Libya,Pakistan,1
-Libya,Russia,1
-Libya,South Africa,1
-Lithuania,Romania,1
-Luxembourg,Netherlands,1
-Norway,Sweden,1
-Pakistan,Russia,1
-Pakistan,South Africa,1
-Poland,Poland,1
-Poland,Romania,1
-Romania,Russia,1
-Russia,South Africa,1
-Singapore,Thailand,1
+japan,united states,15
+germany,united states,11
+germany,united kingdom,10
+france,united kingdom,6
+united kingdom,united states,6
+"china, people's republic of",japan,5
+france,germany,5
+germany,italy,5
+germany,poland,4
+italy,united kingdom,4
+"china, people's republic of",united states,3
+germany,japan,3
+russia,united states,3
+egypt,united kingdom,2
+finland,latvia,2
+estonia,finland,2
+estonia,lithuania,2
+norway,sweden,2
+germany,norway,2
+france,poland,2
+france,united states,2
+france,russia,2
+"china, people's republic of","korea, north",2
+denmark,norway,2
+estonia,latvia,2
+finland,lithuania,2
+italy,libya,2
+japan,russia,2
+india,pakistan,2
+india,united states,2
+"korea, south",united states,2
+libya,united kingdom,2
+poland,united kingdom,2
+australia,japan,2
+australia,united states,2
+"china, people's republic of",india,2
+latvia,lithuania,2
+albania,bulgaria,1
+"china, people's republic of",israel,1
+"china, people's republic of",iran,1
+"china, people's republic of",cuba,1
+"china, people's republic of",france,1
+canada,united states,1
+canada,united kingdom,1
+cambodia,united states,1
+canada,"korea, south",1
+cambodia,ghana,1
+cambodia,france,1
+cambodia,laos,1
+cambodia,kenya,1
+bulgaria,romania,1
+bulgaria,poland,1
+belgium,germany,1
+bulgaria,hungary,1
+australia,vietnam,1
+australia,united kingdom,1
+belgium,france,1
+belarus,ukraine,1
+belarus,germany,1
+austria,russia,1
+austria,germany,1
+austria,france,1
+algeria,morocco,1
+australia,canada,1
+australia,philippines,1
+australia,"korea, south",1
+albania,hungary,1
+albania,poland,1
+albania,romania,1
+algeria,germany,1
+albania,greece,1
+france,israel,1
+france,india,1
+france,iran,1
+finland,romania,1
+egypt,libya,1
+estonia,romania,1
+finland,germany,1
+egypt,italy,1
+"china, people's republic of",russia,1
+france,laos,1
+france,libya,1
+france,south africa,1
+france,pakistan,1
+france,italy,1
+france,kenya,1
+germany,morocco,1
+germany,luxembourg,1
+germany,libya,1
+france,ghana,1
+cuba,"korea, north",1
+cuba,mongolia,1
+denmark,germany,1
+cuba,united states,1
+egypt,germany,1
+denmark,sweden,1
+"china, people's republic of",south africa,1
+"china, people's republic of","korea, south",1
+"china, people's republic of",myanmar,1
+"china, people's republic of",pakistan,1
+"china, people's republic of",libya,1
+"china, people's republic of",mongolia,1
+india,libya,1
+india,japan,1
+india,israel,1
+india,iran,1
+hungary,romania,1
+hungary,poland,1
+ghana,laos,1
+ghana,kenya,1
+germany,sweden,1
+germany,ukraine,1
+germany,netherlands,1
+germany,russia,1
+france,vietnam,1
+iran,pakistan,1
+india,south africa,1
+india,russia,1
+israel,south africa,1
+israel,russia,1
+israel,pakistan,1
+israel,libya,1
+israel,united states,1
+italy,united states,1
+japan,myanmar,1
+italy,japan,1
+japan,philippines,1
+iran,russia,1
+iran,south africa,1
+iran,united states,1
+india,united kingdom,1
+iran,iraq,1
+iran,israel,1
+iran,libya,1
+"korea, north",mongolia,1
+"korea, north","korea, south",1
+kenya,laos,1
+japan,united kingdom,1
+japan,solomon islands,1
+japan,thailand,1
+japan,singapore,1
+latvia,romania,1
+libya,south africa,1
+libya,russia,1
+lithuania,romania,1
+libya,united states,1
+luxembourg,netherlands,1
+libya,pakistan,1
+"korea, south",united kingdom,1
+"korea, north",united states,1
+pakistan,south africa,1
+pakistan,russia,1
+myanmar,united states,1
+pakistan,united kingdom,1
+poland,romania,1
+philippines,united states,1
+romania,russia,1
+pakistan,united states,1
+russia,south africa,1
+seychelles,united kingdom,1
+singapore,united kingdom,1
+singapore,thailand,1
+singapore,united states,1
+south africa,united states,1
+thailand,united kingdom,1
+thailand,united states,1
